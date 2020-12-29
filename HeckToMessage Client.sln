@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30223.230
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeckToMessage Client", "HeckToMessage Client\HeckToMessage Client.csproj", "{49C0EAA7-5F49-4B7D-9726-81EDC3FB0AE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C0EAA7-5F49-4B7D-9726-81EDC3FB0AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C0EAA7-5F49-4B7D-9726-81EDC3FB0AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C0EAA7-5F49-4B7D-9726-81EDC3FB0AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C0EAA7-5F49-4B7D-9726-81EDC3FB0AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C227922E-691C-4768-9936-3E68BC7E5226}
+	EndGlobalSection
+EndGlobal
