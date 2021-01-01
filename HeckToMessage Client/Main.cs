@@ -8,6 +8,7 @@ using System.Windows.Forms;
 using System.Text.Json;
 using System.Collections.Generic;
 using System.Security.Cryptography;
+//This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 namespace HeckToMessage_Client
 {
@@ -203,7 +204,8 @@ namespace HeckToMessage_Client
                 UserInput.Text = "";
                 UserInput.ForeColor = Color.Black;
             }
-        }
+        }//This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
         public class Group
         {
             public Group(string name, string uniqueID, string owner, bool isPublic)
@@ -286,3 +288,4 @@ namespace HeckToMessage_Client
         }
     }
 }
+//This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at https://mozilla.org/MPL/2.0/.
