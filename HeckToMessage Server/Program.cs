@@ -9,6 +9,8 @@ using System.Threading;
 
 namespace ServerProgram
 {
+    //This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
     internal class Srv
     {
         private static readonly TcpListener Server = new TcpListener(IPAddress.Any, 7897);
@@ -319,7 +321,8 @@ namespace ServerProgram
                 Console.WriteLine("connection account has been made with success.");
                 Client.Close();
                 Clients.Remove(Client);
-                return;
+                return;//This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
             }
             else
             {
@@ -389,3 +392,5 @@ namespace ServerProgram
         }
     }
 }
+
+//This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at https://mozilla.org/MPL/2.0/.
