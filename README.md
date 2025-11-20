@@ -1,4 +1,2 @@
 # ~~Heck-To-Message~~
-~~Heck to message's source code from Beta 4.2 (1 january 2021).~~
-
-Silly me making some simple TCP-based simple messaging app long ago..
+Heck to message was a small TCP messaging program that I made a very long time ago months after I first began programming (December~~ 2020).
